@@ -1,5 +1,5 @@
 # Regi-Cal
-This app is using the Apple Framework Swift Data
+This app is using the new Apple Framework Swift Data
 
 Calculator to count cash register
 Available in Apple App Store
